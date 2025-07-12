@@ -1,16 +1,38 @@
-# flutter_ui_challenge
+# Flutter UI Challenge 🚀
 
-A new Flutter project.
+A simple Flutter application that demonstrates basic UI layout and interactivity using core Flutter widgets.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 📌 AppBar with a custom title
+- 🌟 Welcome message using a `Text` widget
+- 💬 Interactive `ElevatedButton` that prints a message to the console
+- 🖼️ Displays an image loaded from the internet
+- 🎯 Clean layout using `Column`, `Padding`, and `SizedBox` for alignment and spacing
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Android Studio or VS Code
+
+### Installation & Run
+
+```bash
+# Clone the repository
+git clone https://github.com/geekstar7/dart-week5.git
+
+# Navigate into the project directory
+cd dart-week5
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
